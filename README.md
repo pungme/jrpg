@@ -1,6 +1,8 @@
 # jrpg
 
-javascript library for library for click through text ... just like in Japanese rpg style.
+## The Idea
+
+javascript library for library for click through text ... just like in Japanese rpg style. throw the array of text and manipulate the text. With some important option like text speed, and so on .. 
 
 ##### TODO
 
